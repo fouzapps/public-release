@@ -9,14 +9,14 @@ Welcome to the Way2Masjid APK distribution repository! Due to Play Store restric
 - **Purpose:** For mosque imams and religious leaders
 - **Features:** Manage prayer times, announcements, and community updates
 
-[📥 Download Imam App](releases/way2masjid_imam.apk)
+[📥 Download Imam App](https://github.com/fouzapps/public-releases/releases/download/latest/way2masjid_imam.apk)
 
 ### 👥 Way2Masjid User
 **File:** `way2masjid_user.apk`
 - **Purpose:** For regular users and community members
 - **Features:** Find nearby mosques, prayer times, and community events
 
-[📥 Download User App](releases/way2masjid_user.apk)
+[📥 Download User App](https://github.com/fouzapps/public-releases/releases/download/latest/way2masjid_user.apk)
 
 <!-- ### 💼 Way2Masjid Executive
 **File:** `way2masjid_executive.apk`
