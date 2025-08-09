@@ -18,14 +18,13 @@ Welcome to the Way2Masjid APK distribution repository! Due to Play Store restric
 
 [📥 Download User App](https://github.com/fouzapps/public-release/releases/download/latest/way2masjid_user.apk)
 
-<!-- ### 💼 Way2Masjid Executive
+ ### 💼 Way2Masjid Executive
 **File:** `way2masjid_executive.apk`
 - **Purpose:** For mosque executives and administrators
 - **Features:** Administrative tools, reporting, and management functions
 
-[📥 Download Executive App](releases/way2masjid_executive.apk) -->
+[📥 Download Executive App](https://github.com/fouzapps/public-release/releases/download/latest/way2masjid_executive.apk)
 
----
 
 ## Installation Guide
 

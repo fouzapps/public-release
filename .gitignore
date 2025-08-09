@@ -1,0 +1,53 @@
+# Release APK files
+releases/
+*.apk
+
+# Logs
+*.log
+release.log
+
+# Environment variables
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# Release automation files
+release.py
+release.sh
+requirements.txt
+RELEASE_GUIDE.md
+
+# Release automation directories
+releases/user/
+releases/imam/
+releases/executive/ 
